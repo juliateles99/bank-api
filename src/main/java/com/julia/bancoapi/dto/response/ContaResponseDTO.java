@@ -1,4 +1,4 @@
-package com.julia.bancoapi.dto;
+package com.julia.bancoapi.dto.response;
 
 import lombok.*;
 

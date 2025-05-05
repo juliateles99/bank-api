@@ -1,4 +1,4 @@
-package com.julia.bancoapi.dto;
+package com.julia.bancoapi.dto.response;
 
 import com.julia.bancoapi.model.TipoTransacao;
 import lombok.*;
